@@ -1,0 +1,4 @@
+main()
+begin
+System.out.println("Hello world");
+end;
